@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/yogesh/flip_ws/src/geom_flip/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"geom_flip\\\" -Idevel/include -I../include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -std=c++11 -o CMakeFiles/trajectory_publisher.dir/src/trajectoryPublisher.cpp.o -c /home/yogesh/flip_ws/src/geom_flip/src/trajectoryPublisher.cpp",
+  "file": "/home/yogesh/flip_ws/src/geom_flip/src/trajectoryPublisher.cpp"
+},
+
+{
+  "directory": "/home/yogesh/flip_ws/src/geom_flip/build",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"geom_flip\\\" -Idevel/include -I../include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -std=c++11 -o CMakeFiles/geom_tracking_node.dir/src/flip.cpp.o -c /home/yogesh/flip_ws/src/geom_flip/src/flip.cpp",
+  "file": "/home/yogesh/flip_ws/src/geom_flip/src/flip.cpp"
+},
+
+{
+  "directory": "/home/yogesh/flip_ws/src/geom_flip/build",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -std=c++11 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o gtest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+
+{
+  "directory": "/home/yogesh/flip_ws/src/geom_flip/build",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -std=c++11 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o gtest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+
+{
+  "directory": "/home/yogesh/flip_ws/src/geom_flip/build",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -std=c++11 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o gtest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+
+{
+  "directory": "/home/yogesh/flip_ws/src/geom_flip/build",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC   -std=c++11 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o gtest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

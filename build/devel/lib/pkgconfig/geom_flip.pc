@@ -1,0 +1,8 @@
+prefix=/home/yogesh/flip_ws/src/geom_flip/build/devel
+
+Name: geom_flip
+Description: Description of geom_flip
+Version: 0.0.0
+Cflags: -I/home/yogesh/flip_ws/src/geom_flip/build/devel/include -I/home/yogesh/flip_ws/src/geom_flip/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs mav_msgs tf tf2 message_runtime geometry_msgs sensor_msgs msg
